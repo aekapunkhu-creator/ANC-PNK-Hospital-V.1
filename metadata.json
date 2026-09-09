@@ -1,0 +1,6 @@
+{
+  "name": "ANC PCU รพ.โพนนาแก้ว → ANC รพ.สกลนคร",
+  "description": "ระบบบันทึกและส่งต่อการดูแลฝากครรภ์ต่อเนื่อง PCU รพ.โพนนาแก้ว ถึง ANC รพ.สกลนคร ตามเกณฑ์มาตรฐาน ANC คุณภาพและสมุดบันทึกสุขภาพแม่และเด็ก",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
